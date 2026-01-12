@@ -19,22 +19,29 @@ uma base sólida para projetos futuros.
 
 ---
 
+## 📁 Organização
+
+Cada arquivo representa um exercício prático resolvido em Python (`.py`).
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Python
-- Jupyter Notebook (.ipynb)
-- Google Colab
+- Google Colab (ambiente de desenvolvimento)
 - Git e GitHub
 
 ---
+
 ## 🎯 Objetivo do Repositório
 
 Este repositório faz parte do meu processo de aprendizado e transição para a área de
-Desenvolvimento de Software, servindo como registro da minha evolução em Python.
+**Desenvolvimento de Software**, servindo como registro da minha evolução em Python.
 
 ---
 
 ## 👤 Autor
 
 **Renan Albino Horne**
+
 - GitHub: [https://github.com/RenanHornet](https://github.com/RenanHornet)
