@@ -16,6 +16,7 @@ uma base sólida para projetos futuros.
 - Estruturas condicionais
 - Estruturas de repetição
 - Lógica de programação
+- Variáveis compostas
 
 ---
 
