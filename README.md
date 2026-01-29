@@ -17,6 +17,7 @@ uma base sólida para projetos futuros.
 - Estruturas de repetição
 - Lógica de programação
 - Variáveis compostas
+- Funções
 
 ---
 
